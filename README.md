@@ -16,9 +16,8 @@
 
 ## About Me
 
-I'm a B.Tech CSE student at VIT Bhopal (graduating 2026), passionate about building full-stack web applications that are fast, secure, and genuinely useful. I enjoy the full arc of development — architecting a clean REST API, wiring up real-time infrastructure with Socket.IO, and making the frontend feel smooth with React.
+I'm a B.Tech CSE student at VIT Bhopal (graduating 2026), passionate about building full-stack web applications that are fast, secure, and genuinely useful. I enjoy the full arc of development — architecting a clean REST API, wiring up real-time infrastructure, and making the frontend feel smooth.
 
-- 🔭 Currently working on **GoGoals** — a goal tracking app with analytics dashboards
 - 🏢 Previously a **Full-Stack Dev Intern at Condigence LLP** — built AI-powered resume screening, secured Spring Boot APIs with JWT, and integrated Hugging Face for semantic similarity
 - 🧩 I actively solve LeetCode problems in Java and Python to sharpen my algorithmic thinking
 - 📍 Based in India | Open to opportunities
@@ -98,12 +97,16 @@ A role-based review platform with three user tiers — Admin, Store Owner, and U
 
 A full-stack personal goal management app with JWT auth, progress analytics dashboards, bucket-list organization, and profile customization with image cropping. Features smooth animations via Framer Motion and a fully responsive design.
 
+🔗 [View Repository]([https://github.com/Ayush-Pratap-Tripathi/RateIt](https://github.com/Ayush-Pratap-Tripathi/GoGoals))
+
 ---
 
 ### 🧠 Imager — AI Image Generator
 > Node.js · Express.js · MongoDB · React.js · Tailwind CSS · ClipDrop API
 
 A text-to-image generation web app powered by the ClipDrop API. Users register, receive credits, and generate AI images from prompts. Features real-time credit deduction, animated UI, and full JWT-protected frontend-backend integration.
+
+🔗 [View Repository](https://github.com/Ayush-Pratap-Tripathi/imager)
 
 ---
 
@@ -112,6 +115,8 @@ A text-to-image generation web app powered by the ClipDrop API. Users register, 
 
 A role-based vehicle rental platform with distinct dashboards for Admin, Owner, and User roles. Includes vehicle browsing, rental request flows, and auth-context-driven routing with React Router. Clean UI with React Hot Toast feedback.
 
+🔗 [View Repository](https://github.com/Ayush-Pratap-Tripathi/rheel)
+
 ---
 
 ### 🍿 SnackTrack — Digital Canteen Ordering System
@@ -119,14 +124,10 @@ A role-based vehicle rental platform with distinct dashboards for Admin, Owner, 
 
 A full-stack canteen management system for schools. Students browse snacks, place orders, and track spending history. Admins get real-time sales analytics and student management. Built with server-side rendering, glassmorphism UI design, and a type-safe Prisma/SQLite data layer.
 
----
-
-### 📝 Codedge Internship — Multi-Project Portfolio
-> React.js · Node.js · Express.js · MongoDB · Redux
-
-A collection of internship projects including a **Blog App** (full CRUD with Redux state management), a **Task Manager** (role-based admin and user dashboards), a **To-Do List** (vanilla JS), and a **Weather App** (live API integration).
+🔗 [View Repository](https://github.com/Ayush-Pratap-Tripathi/SnackTrack)
 
 ---
+
 
 ## 💼 Experience
 
