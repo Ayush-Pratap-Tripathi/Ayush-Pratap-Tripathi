@@ -143,10 +143,6 @@ Handled end-to-end front-end development — from layout structuring to building
 
 <div align="center">
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-Pratap-Tripathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Pratap-Tripathi&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ayush-Pratap-Tripathi&theme=tokyonight&hide_border=true)
 
 </div>
