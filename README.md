@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a B.Tech CSE student at VIT Bhopal (graduating May 2026), passionate about building full-stack web applications that are fast, secure, and genuinely useful. I enjoy the full arc of development — architecting a clean REST API, wiring up real-time infrastructure with Socket.IO, and making the frontend feel smooth with React.
+I'm a B.Tech CSE student at VIT Bhopal (graduating 2026), passionate about building full-stack web applications that are fast, secure, and genuinely useful. I enjoy the full arc of development — architecting a clean REST API, wiring up real-time infrastructure with Socket.IO, and making the frontend feel smooth with React.
 
 - 🔭 Currently working on **GoGoals** — a goal tracking app with analytics dashboards
 - 🏢 Previously a **Full-Stack Dev Intern at Condigence LLP** — built AI-powered resume screening, secured Spring Boot APIs with JWT, and integrated Hugging Face for semantic similarity
