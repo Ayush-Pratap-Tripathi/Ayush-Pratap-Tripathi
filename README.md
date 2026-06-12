@@ -163,7 +163,7 @@ Handled end-to-end front-end development — from layout structuring to building
 ## 🎓 Education
 
 **B.Tech in Computer Science & Engineering**
-VIT Bhopal University · Sep 2022 – May 2026 · CGPA: 7.86
+VIT Bhopal University · Sep 2022 – May 2026 · CGPA: 8.04
 
 ---
 
